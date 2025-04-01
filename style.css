@@ -48,7 +48,9 @@ header {
     backdrop-filter: blur(10px);
     transition: all 0.5s ease;
 }
-
+#mobile-gym {
+    font-size: 20px;
+}
 .logo {
     font-size: 3rem;
     color: var(--text-color);
